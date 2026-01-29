@@ -1,1 +1,112 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>BuildBaseCore – Digitale Prüf- & Wartungsübersicht</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+  <header>
+    <h1>BuildBaseCore</h1>
+    <p class="subtitle">
+      Digitale Übersicht für Prüf-, Wartungs- und Nachweispflichten
+      in psychosozialen und gemeinnützigen Einrichtungen.
+    </p>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>Worum geht es?</h2>
+      <p>
+        BuildBaseCore unterstützt Einrichtungen dabei,
+        prüf- und wartungsrelevante Pflichten pro Gebäude
+        einfach, nachvollziehbar und revisionsnah zu überblicken.
+      </p>
+    </section>
+
+    <section>
+      <h2>Für wen?</h2>
+      <ul>
+        <li>Psychosoziale Einrichtungen (PSZ)</li>
+        <li>Gemeinnützige Träger mit mehreren Standorten</li>
+        <li>Schulen & Betreuungseinrichtungen (perspektivisch)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Was BuildBaseCore bewusst <em>nicht</em> ist</h2>
+      <ul>
+        <li>❌ Kein Dokumentenmanagementsystem (DMS)</li>
+        <li>❌ Keine Verwaltungs- oder Personalsoftware</li>
+        <li>❌ Keine Archivierungsplattform</li>
+      </ul>
+      <p class="hint">
+        Fokus statt Komplexität – als Ergänzung bestehender Systeme.
+      </p>
+    </section>
+
+    <section>
+      <h2>Warum jetzt?</h2>
+      <p>
+        Viele Einrichtungen arbeiten heute mit Excel, Ordnern
+        oder Erfahrungswissen. Gleichzeitig steigen Anforderungen
+        durch Prüfungen, Förderstellen und Haftungsfragen.
+      </p>
+      <p>
+        Aktuell führen wir kurze Gespräche zur Praxisanalyse
+        und vergeben erste Pilotzugänge.
+      </p>
+    </section>
+
+    <section class="contact">
+      <h2>Kontakt</h2>
+      <p>
+        E-Mail:
+        <a href="mailto:kontakt@buildbasecore.at">
+          kontakt@buildbasecore.at
+        </a>
+      </p>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Impressum</h2>
+      <p>
+        BuildBaseCore<br>
+        Szilard Melczer<br>
+        Johannes-Brahms-Gasse 4<br>
+        2000 Stockerau<br>
+        Österreich
+      </p>
+      <p>
+        E-Mail: kontakt@buildbasecore.at
+      </p>
+    </section>
+
+    <section>
+      <h2>AGB (Kurzfassung)</h2>
+      <p>
+        BuildBaseCore stellt eine digitale Übersichtslösung zur
+        organisatorischen Unterstützung bereit.
+        Die Verantwortung für Inhalte, Prüfungen,
+        Fristen und rechtliche Verpflichtungen
+        verbleibt vollständig bei der jeweiligen Einrichtung.
+      </p>
+      <p>
+        Es erfolgt keine rechtsverbindliche Archivierung
+        und keine Haftungsübernahme.
+        Details werden vor Nutzung individuell vereinbart.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 BuildBaseCore</p>
+  </footer>
+</body>
+</html>
